@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Pai Rico Pai Pobre",
+    "autor": "Robert Kiyosaki",
+    "ano_publicacao": 2000,
+    "preco_venda": 85.0
+  },
+  {
+    "titulo": "A revolução dos bichos",
+    "autor": "Geroge Orwell",
+    "ano_publicacao": 1980,
+    "preco_venda": 79.0
+  }
+]
